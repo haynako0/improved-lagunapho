@@ -15,7 +15,7 @@ Due to the size of the chatbot files—estimated at **2GB to 3GB**—we are **un
 
 To access the full chatbot application, please download it from the following external source:
 
-👉 **[Download the Chatbot Files](#)**  
+👉 **[Download the Chatbot Files](https://mega.nz/file/y1BDUA4S#N_7eo3GsaeZG9N1JUdB9CesqAcWKT6G72HdpMa_QvJw)**  
 
 ## 📄 Additional Notes
 
